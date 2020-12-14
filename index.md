@@ -58,7 +58,7 @@ TV shows
 ### Life
 I have a few or almost no friends in my life(don't try to become one), Whenever I find some free time I go and chill here, playing some video games.
 
-![Image](https://i.imgur.com/Jp01llS.jpg)
+![Image](https://i.imgur.com/lMTiXJU.jpg)
 ### Reaching out
 If you want to schedule a session or interested to discuss some security issues shoot up a text.
 [Linkedin](https://www.linkedin.com/in/liam-mitnick-215b91201/) and [Twitter](https://twitter.com/LiamMitnick)
