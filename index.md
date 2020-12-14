@@ -56,7 +56,7 @@ TV shows
 * Silicon valley ........many more
 
 ### Life
-I have a few or almost no friends in my life(don't try to become one), Whenever I find some free time I go and chill here, playing some video games.
+I have a few or almost no friends in my life(don't try to become one), Whenever I find some free time I go here and meet my friends tyrell and elliot.
 
 ![Image](https://i.imgur.com/lMTiXJU.jpg)
 ### Reaching out
