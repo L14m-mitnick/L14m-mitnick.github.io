@@ -51,12 +51,12 @@ Some of my favorite Movies
 * Wolf of the wall street
 
 TV shows
-* Mr.Robot ( Why anyone wouldn't like this being a hacker! )
+* Mr.Robot ( Why wouldn't someone like this being a hacker! )
 * Narcos
 * Silicon valley ........many more
 
 ### Life
-I have a few or almost no friends in my life(don't try to become one), Whenever I ind some free time I go and chill here playing some video games.
+I have a few or almost no friends in my life(don't try to become one), Whenever I find some free time I go and chill here, playing some video games.
 
 ![Image](https://i.imgur.com/Jp01llS.jpg)
 ### Reaching out
