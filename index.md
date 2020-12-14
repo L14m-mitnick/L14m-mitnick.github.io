@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+## Liam mitnick
 
-You can use the [editor on GitHub](https://github.com/L14m-mitnick/L14m-mitnick.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi , my name is Liam. Welcome to my personal website.I'm a security engineer during day and a vigilant hacker at night.
 
-### Markdown
+### Location
+Currently i'm located in Toronto, Canada. I currently work at Cybersafe.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Experience
+I'm not a elite and most wanted hacker like Kevin , neither a script kiddie, usually I hack everything around me. **Stay away from me and be safe, I might inject virus.** 
 
-```markdown
-Syntax highlighted code block
+### Eductaion
+I graduated with a degree of cybersecurity from university of Toronto, Toronto in 2010. Yeah Toronto!!
 
-# Header 1
-## Header 2
-### Header 3
+I hold the following certifications
+* OSCP
+* RHCSA
+* CCNA
 
-- Bulleted
-- List
+### Conferences
+I've participated in these conferences 
 
-1. Numbered
-2. List
+* DEFCON 2020
+* Blackhat USA
+* Linux.conf
 
-**Bold** and _Italic_ and `Code` text
+### Security tips
+* Use a password atleast with 15 characters with Uppercase , lower case, numbers and special characters.
+* Be aware of malicious sites and dont download anything suspicious from internet.
+* It's enought to exploit the Weakest link to compromise anything, and unfortunately humans are the weakest links.....Yeah don't fall for phishing attack, check the URL
+* There's nothing called super secure and unbreachable, if you want to be one then dont connect your machine with internet (only way)
 
-[Link](url) and ![Image](src)
-```
+### CTF's
+Yeah I love CTF's, It makes me forget everything. Don't you think it's addictive??, I do.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Try these, if you're interested
+* Try hackme
+* Hack The Box
+* Pico CTF (if you're a begginer and don't know what a CTF is)
 
-### Jekyll Themes
+### Personal
+### Music
+Here are some of my favorite artists
+* Kayne west
+* Katy perry
+* Bruno Mars
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/L14m-mitnick/L14m-mitnick.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Movies and TV shows
+Some of my favorite Movies
+* Pirates of carribean
+* Wolf of the wall street
 
-### Support or Contact
+TV shows
+* Mr.Robot ( Why anyone wouldn't like this being a hacker! )
+* Narcos
+* Silicon valley ........many more
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Life
+I have a few or almost no friends in my life(don't try to become one), Whenever I ind some free time I go and chill here playing some video games.
+! [image] (https://imgur.com/Jp01llS)
+
+### Reaching out
+If you want to schedule a session or interested to discuss some security issues shoot up a text.
+[Linkedin](https://www.linkedin.com/in/liam-mitnick-215b91201/) [Twitter] (https://twitter.com/LiamMitnick)
