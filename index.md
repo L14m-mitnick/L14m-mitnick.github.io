@@ -57,6 +57,7 @@ TV shows
 
 ### Life
 I have a few or almost no friends in my life(don't try to become one), Whenever I ind some free time I go and chill here playing some video games.
+
 ![Image](https://i.imgur.com/Jp01llS.jpg)
 ### Reaching out
 If you want to schedule a session or interested to discuss some security issues shoot up a text.
