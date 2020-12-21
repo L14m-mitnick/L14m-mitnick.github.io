@@ -56,9 +56,9 @@ TV shows
 * Silicon valley ........many more
 
 ### Life
-I have a few or almost no friends in my life(don't try to become one), Whenever I find some free time I go here and meet my friends tyrell and elliot.
+I have a few or almost no friends in my life(don't try to become one), Whenever I find some free time I go here and play some video games.
 
-![Image](https://i.imgur.com/lMTiXJU.jpg)
+![Image](https://i.imgur.com/Jp01llS.jpg)
 ### Reaching out
 If you want to schedule a session or interested to discuss some security issues shoot up a text.
 [Linkedin](https://www.linkedin.com/in/liam-mitnick-215b91201/) and [Twitter](https://twitter.com/LiamMitnick)
