@@ -61,4 +61,5 @@ I have a few or almost no friends in my life(don't try to become one), Whenever 
 ![Image](https://i.imgur.com/Jp01llS.jpg)
 ### Reaching out
 If you want to schedule a session or interested to discuss some security issues shoot me up here <liammitnick@canada.ca>.
+
 [Linkedin](https://www.linkedin.com/in/liam-mitnick-215b91201/) and [Twitter](https://twitter.com/LiamMitnick)
