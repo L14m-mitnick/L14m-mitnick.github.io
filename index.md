@@ -27,7 +27,7 @@ I've participated in these conferences
 ### Security tips
 * Use a password atleast with 15 characters with Uppercase , lower case, numbers and special characters.
 * Be aware of malicious sites and dont download anything suspicious from internet.
-* It's enought to exploit the Weakest link to compromise anything, and unfortunately humans are the weakest links.....Yeah don't fall for phishing attack, check the URL
+* It's just enough to exploit the Weakest link to compromise any system, and unfortunately humans are the weakest links.....Yeah don't fall for phishing attack, check the URL and be sure you are entering your credentials to a proper site
 * There's nothing called super secure and unbreachable, if you want to be one then dont connect your machine with internet (only way)
 
 ### CTF's
@@ -60,5 +60,5 @@ I have a few or almost no friends in my life(don't try to become one), Whenever 
 
 ![Image](https://i.imgur.com/Jp01llS.jpg)
 ### Reaching out
-If you want to schedule a session or interested to discuss some security issues shoot up a text.
+If you want to schedule a session or interested to discuss some security issues shoot me up here <liammitnick@canada.ca>.
 [Linkedin](https://www.linkedin.com/in/liam-mitnick-215b91201/) and [Twitter](https://twitter.com/LiamMitnick)
