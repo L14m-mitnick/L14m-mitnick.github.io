@@ -34,9 +34,11 @@ I've participated in these conferences
 Yeah I love CTF's, It makes me forget everything. Don't you think it's addictive??, I do.
 
 Try these, if you're interested
+* Pico CTF (if you're a begginer and don't know what a CTF is)
 * Try hackme
 * Hack The Box
-* Pico CTF (if you're a begginer and don't know what a CTF is)
+* You can find list on ongoing and past CTF [here](https://ctftime.org)
+
 
 ### Personal
 ### Music
