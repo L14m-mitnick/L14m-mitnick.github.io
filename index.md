@@ -53,6 +53,8 @@ Some of my favorite Movies
 TV shows
 * Mr.Robot ( Why wouldn't someone like this being a hacker! )
 * Narcos
+* Game of Thrones
+* Vikings
 * Silicon valley ........many more
 
 ### Life
