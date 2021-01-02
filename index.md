@@ -33,6 +33,7 @@ I've participated in these conferences
 ### CTF's
 Yeah I love CTF's, It makes me forget everything. Don't you think it's addictive??, I do.
 
+Me and elliot used to play together.
 Try these, if you're interested
 * Pico CTF (if you're a begginer and don't know what a CTF is)
 * Try hackme
