@@ -1,7 +1,7 @@
 ## Liam mitnick
 
 
-Hi , my name is Liam. Welcome to my personal website.I'm a security engineer during day and a vigilant hacker at night.
+Hi , my name is Liam. Welcome to my personal website.I'm a security engineer at cybersafe during day and a vigilant hacker at night.
 
 ### Location
 Currently i'm located in Toronto, Canada. I currently work at Cybersafe.
