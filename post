@@ -1,0 +1,11 @@
+---
+title: "Post"
+date: 2021-10-29T07:36:16+05:30
+---
+This is the first post I'm writing 
+
+```
+echo hello
+import base64
+print("Base64")
+```

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Liam&#39;s hugo</title>
+    <link>https://L14m-mitnick.github.io/posts/</link>
+    <description>Recent content in Posts on Liam&#39;s hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Oct 2021 07:41:53 +0530</lastBuildDate>
+    
+	<atom:link href="https://L14m-mitnick.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Firstpost</title>
+      <link>https://L14m-mitnick.github.io/posts/firstpost/</link>
+      <pubDate>Fri, 29 Oct 2021 07:41:53 +0530</pubDate>
+      
+      <guid>https://L14m-mitnick.github.io/posts/firstpost/</guid>
+      <description>The first post I created
+import base64 print(&amp;#34;Decoding base64&amp;#34;) </description>
+    </item>
+    
+  </channel>
+</rss>
